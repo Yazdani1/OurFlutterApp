@@ -49,7 +49,18 @@ class _HomeState extends State<Home> {
             child: Text("Daily Income",
               style: TextStyle(fontSize: 25.0,color: Colors.white),
             ),
+          ),
+          Container(
+            height: 50.0,
+            width: 250.0,
+            padding: EdgeInsets.all(10.0),
+            color: Colors.deepPurpleAccent,
+            margin: EdgeInsets.all(20.0),
+            child: Text("Daily Income",
+              style: TextStyle(fontSize: 25.0,color: Colors.white),
+            ),
           )
+
 
 
 
